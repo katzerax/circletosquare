@@ -41,7 +41,7 @@ def main():
     
     x, y = convert_coordinates(radius, u, v)
     
-    print(f"K Input (u, v): ({u}, {v})")
-    print(f"K Output (x, y): ({x:.2f}, {y:.2f})")
+    print(f"Input (u, v): ({u}, {v})")
+    print(f"Output (x, y): ({x:.2f}, {y:.2f})")
 
 main()
