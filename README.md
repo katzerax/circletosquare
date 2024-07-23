@@ -1,7 +1,7 @@
 # circletosquare
 This program converts a set of circle coordinates (coordinates underneath the line of a circle with a given radius), into a transformed set of coordinates based on a square with the same diameter (in the shown example with a radius of 256; -256 <= x <= 256, -256 <= y <= 256). 
-![image](https://github.com/user-attachments/assets/319a916e-778a-42ba-b127-6295ca7e0d90)
 
+![image](https://github.com/user-attachments/assets/319a916e-778a-42ba-b127-6295ca7e0d90)
 
 into
 
