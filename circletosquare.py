@@ -33,15 +33,15 @@ def convert_coordinates(radius, u, v):
     return x, y
 
 def main():
-    radius = 256
+    radius = 1
     
     #input coords, u=x, v=y
-    u = float(-60)
-    v = float(160)
+    u = float(-0.64)
+    v = float(0.67)
     
     x, y = convert_coordinates(radius, u, v)
     
     print(f"Input (u, v): ({u}, {v})")
-    print(f"Output (x, y): ({x:.2f}, {y:.2f})")
+    print(f"Output (x, y): ({x:.6f}, {y:.6f})")
 
 main()
